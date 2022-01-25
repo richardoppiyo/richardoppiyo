@@ -25,7 +25,7 @@ I Spend most of time coding outstanding projects and learning new technologies.
 
 [![Twitter Badge](https://img.shields.io/badge/-@blessed_ricky-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/blessed_ricky)](https://twitter.com/blessed_ricky) 
 [![Linkedin Badge](https://img.shields.io/badge/-richardoppiyo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardoppiyo/) 
-[![Mail Badge](https://img.shields.io/badge/-FernandoSalas-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:richardoppiyo@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-richardoppiyo-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:richardoppiyo@gmail.com)
 
 <!-- TODO: Add last video link -->
 
