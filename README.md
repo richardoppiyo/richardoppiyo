@@ -21,7 +21,7 @@ I'm Richard Opiyo, I am a full stack software engineer/ Systems Developer.
 I am currently a student @microverseinc working to hone my skills in Full-Stack development.  
 I Spend most of time coding outstanding projects and learning new technologies.
 
-:mailbox: Reach me out!
+:mailbox: Reach out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@blessed_ricky-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/blessed_ricky)](https://twitter.com/blessed_ricky) 
 [![Linkedin Badge](https://img.shields.io/badge/-richardoppiyo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardoppiyo/) 
@@ -31,8 +31,8 @@ I Spend most of time coding outstanding projects and learning new technologies.
 
 - 🔭 I’m currently a full time student @microverseinc.
 - :computer: Most used line of code `git reset `x to make sure I'm always fresh!
-- 🤔 I’m open to different kinds of projects collaborative and open source projects, ranging form software to harware.
-- 📫 How to reach me: richardoppiyo@gmail.com.
+- 🤔 I’m open to different kinds of projects collaborative and open source projects, ranging form software to hardware.
+- 📫 Click for instant reach! : richardoppiyo@gmail.com.
 - ⚡ Fun fact: I really really love reading non-fictional books and listening to such kind of stories because I believe in diversities of stories.
 
 #### Top Technologies
