@@ -69,12 +69,11 @@ I Spend most of time coding outstanding projects and learning new technologies.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=richardoppiyo.richardoppiyo&left_color=green&right_color=red)
 
-
  
 #### Github Stats
 [![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardoppiyo&theme=gruvbox)](https://github.com/richardoppiyo/github-readme-stats)
 
-#### Profile Visits
+#### Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=richardoppiyo&layout=compact"/>
 
 #### Contributions and streaks
