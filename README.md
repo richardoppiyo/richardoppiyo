@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=richardoppiyo.richardoppiyo&left_color=green&right_color=red)
 ### Hi there 👋
 
 I'm Richard Opiyo, I am a full stack software engineer/ Systems Developer.
