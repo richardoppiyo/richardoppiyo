@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=richardoppiyo)
+![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=richardoppiyo.richardoppiyo&left_color=green&right_color=red)
 ### Hi there 👋
 
 
