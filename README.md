@@ -1,21 +1,6 @@
+![](https://komarev.com/ghpvc/?username=richardoppiyo)
 ### Hi there 👋
 
-<!--
-**richardoppiyo/richardoppiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Hi There, I'm Richard <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Richard Opiyo, I am a full stack software engineer/ Systems Developer.
 I am currently a student @microverseinc working to hone my skills in Full-Stack development.  
@@ -36,8 +21,6 @@ I Spend most of time coding outstanding projects and learning new technologies.
 - ⚡ Fun fact: I really really love reading non-fictional books and listening to such kind of stories because I believe in diversities of stories.
 
 #### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
@@ -64,20 +47,11 @@ I Spend most of time coding outstanding projects and learning new technologies.
 <br />
 <br />
 
+## Github Stats 📈
 
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=richardoppiyo.richardoppiyo&left_color=green&right_color=red)
-
- 
-#### Github Stats
+<br>
+<div align="left">
 [![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardoppiyo&theme=gruvbox)](https://github.com/richardoppiyo/github-readme-stats)
-
-#### Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=richardoppiyo&layout=compact"/>
-
-#### Contributions and streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardoppiyo"/>
-
-
-
+</div>
