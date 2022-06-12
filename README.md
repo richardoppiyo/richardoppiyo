@@ -1,6 +1,5 @@
-![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=richardoppiyo.richardoppiyo&left_color=green&right_color=red)
+!(https://visitor-badge.glitch.me/badge?page_id=richardoppiyo.richardoppiyo&left_color=green&right_color=red)
 ### Hi there 👋
-
 
 I'm Richard Opiyo, I am a full stack software engineer/ Systems Developer.
 I am currently a student @microverseinc working to hone my skills in Full-Stack development.  
