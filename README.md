@@ -52,10 +52,10 @@ I Spend most of time coding outstanding projects and learning new technologies.
  
 #### Github Stats
 [![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardoppiyo&theme=gruvbox)](https://github.com/richardoppiyo/github-readme-stats)
-
+<!-- 
 #### Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=richardoppiyo&layout=compact"/>
-
+ -->
 #### Contributions and streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardoppiyo"/>
 
