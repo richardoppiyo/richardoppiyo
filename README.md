@@ -12,7 +12,7 @@ I Spend most of time coding outstanding projects and learning new technologies.
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently a full time student @microverseinc.
+- 🔭 I’m a @microverseinc graduate in Full Stack Web Development.
 - :computer: Most used line of code `git reset `x to make sure I'm always fresh!
 - 🤔 I’m open to different kinds of projects collaborative and open source projects, ranging form software to hardware.
 - 📫 Click for instant reach! : richardoppiyo@gmail.com.
