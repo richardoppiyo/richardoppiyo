@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Richard Opiyo, I am a full stack software engineer/ Systems Developer.
-I am certified Full-Stack developer from @microverseinc.
+I'm Richard Opiyo, I am a Full Stack Software Engineer/ Systems Developer.
+I graduated from @microverseinc as a Full-Stack developer.
 I Spend most of time coding outstanding projects and learning new technologies.
 
 :mailbox: Reach out!
