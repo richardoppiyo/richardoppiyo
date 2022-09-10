@@ -2,7 +2,7 @@
 
 I'm Richard Opiyo, a Full Stack Software Engineer/ Systems Developer.
 I graduated from @microverseinc as a Full-Stack developer.
-I Spend most of time coding outstanding projects and learning new technologies.
+I spend most of time coding outstanding projects and learning new technologies.
 
 :mailbox: Reach out!
 
